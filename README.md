@@ -8,7 +8,7 @@ I build websites, desktop software, and games. I’m deeply curious about how th
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zynfx1&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 [![](https://visitcount.itsvg.in/api?id=zynfx1&icon=0&color=0)](https://visitcount.itsvg.in)
-![hippo](https://i.pinimg.com/originals/90/f1/64/90f1648e3259ded26d63edd48a1804ea.gif)
+![purple scenery](https://i.pinimg.com/originals/90/f1/64/90f1648e3259ded26d63edd48a1804ea.gif)
 
 ---
 
