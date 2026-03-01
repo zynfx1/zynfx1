@@ -11,6 +11,8 @@ I build websites, desktop software, and games. I’m deeply curious about how th
 [![](https://visitcount.itsvg.in/api?id=zynfx1&icon=0&color=0)](https://visitcount.itsvg.in)
 ![purple scenery](https://i.pinimg.com/originals/90/f1/64/90f1648e3259ded26d63edd48a1804ea.gif)
 
----
 
 
+ # Projects:
+Todo App developed by zynfx1: <br>
+<a href="https://todo-app-zayn.vercel.app/todo">todo-app-zayn.vercel.app<a>
