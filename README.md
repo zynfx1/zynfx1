@@ -13,6 +13,6 @@ I build websites, desktop software, and games. I’m deeply curious about how th
 
 
 
- # Projects:
+<!-- # Projects:
 Todo App developed by zynfx1: <br>
-<a href="https://todo-app-zayn.vercel.app/todo">todo-app-zayn.vercel.app<a>
+<a href="https://todo-app-zayn.vercel.app/todo">todo-app-zayn.vercel.app<a> -->
